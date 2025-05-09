@@ -1,0 +1,55 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# Compiled packages
+dist/
+build/
+*.egg-info/
+
+# Logs and debug output
+*.log
+*.tmp
+*.bak
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Cipher artifacts
+*.bhex
+*.entropy
+*.drift
+
+# Jupyter and notebook outputs
+.ipynb_checkpoints/
+
+# Custom backups
+backup_*/
+*.old
+
+# Test artifacts
+/.pytest_cache/
+/.mypy_cache/
+
+# GUI export/cache
+*.png
+*.svg
+cache_output*/
+
+# Personal local files
+local_config.json
+blackhole_*.bhex
+
+# Package manager
+pip-wheel-metadata/

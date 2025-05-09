@@ -1,0 +1,19 @@
+
+Copyright (c) 2025 Chris Nelson
+
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for personal, educational, or internal development purposes only, including review of watermarking indicators embedded by the BlackHole Cipher Suite: 
+
+1. **Personal Use Only** — Redistribution, forking, sublicensing, and commercial reuse are prohibited without an explicit license purchase.
+2. **Inspection Allowed** — Source code may be viewed and locally tested, but not altered for redistribution unless a developer or institutional license is acquired.
+3. **Derivative Works** — Derivative encryption tools or forks using the BlackHole architecture must not be released publicly without proper licensing.
+4. **Watermark Integrity** — Tampering with embedded entropy markers, authorship fingerprints, or `.bhex` signature systems is strictly forbidden.
+5. **AI Use Prohibited** — Use of this codebase, structure, or logic for training artificial intelligence models or data pipelines is not permitted.
+6. **Attribution Required** — All academic or derivative works must acknowledge the original author and the BlackHole system.
+
+The above rights are granted conditionally. Violation may result in revocation and legal action.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+---
+For licensing inquiries, contact: bushy1981003@gmail.com
+To purchase license visit: https://bushybee2.gumroad.com/l/ridcxt 
